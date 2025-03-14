@@ -119,8 +119,8 @@ console.log(name); // msanad
 console.log(name2); // Yassien
 ```
 
-![Illustration Image](../resources/stack-heap-pointers.png)
-Reference of image : https://felixgerschau.com/static/b452488bd7eeac0405c48f164da6280d/5a190/stack-heap-pointers.png
+<img src="https://felixgerschau.com/static/b452488bd7eeac0405c48f164da6280d/5a190/stack-heap-pointers.png" alt="Stack Memory and Heap Memory" width="500"/>
+
 
 ### [ ⏭ Next: Operators](./04_operators.md)
 
