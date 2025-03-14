@@ -193,7 +193,7 @@ let y = void(x++);
 console.log(x,y) // 2, undefined
 ```
 
-### [ ⏭ Next: Operator Precedence](./05_operators_precedense.md)
+### [ ⏭ Next: Operator Precedence](./05_operators_precedence.md)
 
 ### [🔙 Back To JS Readme](./js.md)
 

@@ -21,7 +21,7 @@ To check the precedence of an operator, you can refer to the [MDN Web Docs](http
 let result = 2 + 3 * 4 * 6; // 74
 ```
 
-### [ ⏭ Next: Conversion & Coercion](./06_convertion_coersion.md)
+### [ ⏭ Next: Conversion & Coercion](./06_convertion_coercion.md)
 
 ### [🔙 Back To JS Readme](./js.md)
 
