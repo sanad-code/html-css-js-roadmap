@@ -10,10 +10,10 @@
 4. [Operators](./04_operators.md) 🛠️
 5. [Operators Precedence](./05_operators_precedence.md) 🛠️
 6. [Conversion & Coercion](./06_conversion_coercion.md) 🔄
-7. [Truthy & Falsy](./07_truthy_falsy.md) 🦄
+7. [Truthy & Falsy](./07_truthy_falsy_values.md) 🦄
 8. [Strings](./08_strings.md) 🧵
 9. [Numbers](./09_numbers.md) 🔢
-10. [Dates & Times](./10_dates_times.md) 🕰️
+10. [Dates & Times](./10_date.md) 🕰️
 11. [Arrays](./11_arrays.md) 📚
 12. [Objects](./12_objects.md) 🧱
 13. [Destructuring](./13_destructuring.md) 🧩
@@ -21,7 +21,7 @@
 15. [This](./15_this.md) 🤖
 16. [control flow](./16_control_flow.md) 🚦
 17. [Loops](./17_loops.md) 🔄
-18. [Asynchronous JavaScript](./18_asynchronous_javascript.md) 🕰️
+18. [Asynchronous JavaScript](./18_asynchronous.md) 🕰️
 19. [DOM](./19_dom.md) 🏛️
 20. [OOP](./20_oop.md) 🧱
 
